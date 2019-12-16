@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
+    测试表达式打算
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
